@@ -1,0 +1,13 @@
+syntax on
+filetype on
+set noswapfile
+set number
+set autoindent
+set smartindent
+set mouse=a
+set tabstop=4
+set shiftwidth=4
+set cursorline
+set cursorlineopt=number
+set background=dark
+colorscheme retrobox
